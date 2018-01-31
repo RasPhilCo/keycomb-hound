@@ -1,4 +1,3 @@
-const ONE = 1;
-ONE = 2;
+var one = 1;
 var password;
-password=******;
+
